@@ -49,3 +49,5 @@ about
 projects
 clear
 theme
+
+📂 Project Structure
