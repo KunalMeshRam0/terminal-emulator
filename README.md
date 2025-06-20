@@ -56,9 +56,6 @@ date
 ## 📂 Project Structure
 
 ```text
-## 📂 Project Structure
-
-```text
 📦 terminal-emulator
  ├── 📁 src/
  │   ├── 📁 components/             # Terminal JSX components
