@@ -50,4 +50,6 @@ projects
 clear
 theme
 
+---
+
 ##📂 Project Structure
